@@ -27,5 +27,5 @@ The COVID-19 pandemic has significantly impacted societies worldwide, making ana
 
 ## Contributors
 
-- [Your Name](https://github.com/anuragslathia)
+- [Anurag Slathia](https://github.com/anuragslathia)
 
